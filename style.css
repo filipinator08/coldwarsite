@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+h1, h2 { color: #2c3e50; }
+nav a { margin-right: 15px; color: #2980b9; text-decoration: none; }
+section { margin-bottom: 40px; }
+img { max-width: 100%; height: auto; border: 1px solid #ccc; margin-top: 10px; }
+summary { font-weight: bold; cursor: pointer; margin-top: 15px; }
+details { margin-bottom: 20px; }
